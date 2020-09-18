@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 2 Yernar Abilbay</string>
+    <string name="radiobutton">Lamb Patty</string>
+    <string name="radiobutton1">Beef Patty</string>
+    <string name="radiobutton2">Ostrich Patty</string>
+    <string name="checkbox">Proscuitto</string>
+    <string name="radiobuttonAsiago">Asiago Cheese</string>
+    <string name="radiobuttonCreme">Creme Fraiche</string>
+    <string name="caloriesTotal">Calories:</string>
+</resources>
